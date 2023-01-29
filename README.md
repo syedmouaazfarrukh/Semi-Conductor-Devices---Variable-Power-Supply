@@ -1,2 +1,2 @@
-# Semi-Conductor-Devices---Variable-Power-Supply
+# SemiConductorDevices-VariablePowerSupply
 SCD - Variable Power Supply using LT-Spice
